@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="DefaultNotificationTitle" xml:space="preserve">
-    <value>Oups! Something weird happend.</value>
+    <value>Oops! Something weird happened.</value>
   </data>
   <data name="DefaultNotificationText_MessageBox" xml:space="preserve">
     <value>Don't worry though, we have logged the error and will fix it with our next update!</value>
